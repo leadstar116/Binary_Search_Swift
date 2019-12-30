@@ -9,3 +9,4 @@ Implement binary search algorithm in swift
 <p>If the target value is greater than the element, the search continues in the upper half of the array. </p>
 <p>By doing this, the algorithm eliminates the half in which the target value cannot lie in each iteration.</p>
 
+<p>For more information, please have a look on binary-search-diagram.jpg file. </p>
