@@ -1,4 +1,4 @@
-# Binary_Search_Swift
+# Description
 Implement binary search algorithm in swift
 
 <h2>Basic knowledge for binary search:</h2>
